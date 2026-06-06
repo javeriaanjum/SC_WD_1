@@ -1,2 +1,14 @@
-# SC_WD_1
-Responsive landing page with interactive navigation menu using html,css and javascript
+# SCT_WD_1
+
+Responsive Landing Page
+
+Features:
+- Fixed Navigation Bar
+- Hover Effects
+- Navbar Color Change on Scroll
+- Responsive Design
+
+Technologies Used:
+- HTML
+- CSS
+- JavaScript
